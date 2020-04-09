@@ -1,0 +1,9 @@
+E:\Shilpa\Skill_Tracker\Skill_Tracker.BusinessLayer\bin\Debug\netcoreapp3.1\Skill_Tracker.BusinessLayer.deps.json
+E:\Shilpa\Skill_Tracker\Skill_Tracker.BusinessLayer\bin\Debug\netcoreapp3.1\Skill_Tracker.BusinessLayer.dll
+E:\Shilpa\Skill_Tracker\Skill_Tracker.BusinessLayer\bin\Debug\netcoreapp3.1\Skill_Tracker.BusinessLayer.pdb
+E:\Shilpa\Skill_Tracker\Skill_Tracker.BusinessLayer\obj\Debug\netcoreapp3.1\Skill_Tracker.BusinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\Skill_Tracker\Skill_Tracker.BusinessLayer\obj\Debug\netcoreapp3.1\Skill_Tracker.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Shilpa\Skill_Tracker\Skill_Tracker.BusinessLayer\obj\Debug\netcoreapp3.1\Skill_Tracker.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\Skill_Tracker\Skill_Tracker.BusinessLayer\obj\Debug\netcoreapp3.1\Skill_Tracker.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\Skill_Tracker\Skill_Tracker.BusinessLayer\obj\Debug\netcoreapp3.1\Skill_Tracker.BusinessLayer.dll
+E:\Shilpa\Skill_Tracker\Skill_Tracker.BusinessLayer\obj\Debug\netcoreapp3.1\Skill_Tracker.BusinessLayer.pdb

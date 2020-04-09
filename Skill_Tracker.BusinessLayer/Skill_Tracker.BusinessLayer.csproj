@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Skill_Tracker.DataLayer\Skill_Tracker.DataLayer.csproj" />
+    <ProjectReference Include="..\Skill_Tracker.Entities\Skill_Tracker.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
